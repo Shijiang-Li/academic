@@ -152,7 +152,7 @@ awards:
     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
     awarder: Xiamen University
-  #   icon: edx
+    icon: edx
   #   summary: |
   #     Learned:
   #     - Synthesize your own blockchain solutions
