@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-        
-        I’m a direct doctoral student at Xiamen University, working at the intersection of artificial intelligence and construction machinery automation. My research focuses on developing intelligent systems to optimize machine operations and improve the interaction between machinery and materials in construction.
+        I’m a direct doctoral student at Xiamen University, working at the intersection of artificial intelligence, digital twin and construction machinery automation. My research focuses on developing intelligent systems to optimize machine operations and improve the interaction between machinery and materials in construction.
 
-        I’m passionate about using AI and data-driven approaches to tackle real-world challenges in construction, from excavation to material handling. If you’re interested in collaborating or discussing ideas, feel free to reach out! 😃
+        I’m passionate about using AI and data-driven approaches to tackle real-world challenges. If you’re interested in collaborating or discussing ideas, feel free to reach out! 😃
         
     design:
       columns: '1'

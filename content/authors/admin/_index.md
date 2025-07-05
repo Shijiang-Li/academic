@@ -48,8 +48,9 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Automation in Construction
+  - Construction Machinery Automation
   - Robotics
+  - Digital Twin
 
 education:
   - area: PhD Mechanical Design & Manufacturing and Automation
