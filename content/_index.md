@@ -34,12 +34,11 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+      text: |-        
+        I’m a direct doctoral student at Xiamen University, working at the intersection of artificial intelligence and construction machinery automation. My research focuses on developing intelligent systems to optimize machine operations and improve the interaction between machinery and materials in construction.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I’m passionate about using AI and data-driven approaches to tackle real-world challenges in construction, from excavation to material handling. If you’re interested in collaborating or discussing ideas, feel free to reach out! 😃
         
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   # - block: collection
